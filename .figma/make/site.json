@@ -1,0 +1,10 @@
+{
+  "description": "Explore luxury homes, filter properties by type, location, and price, and connect with trusted real estate agents for buying, renting, or selling.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
